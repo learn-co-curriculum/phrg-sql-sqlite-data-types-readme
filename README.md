@@ -65,4 +65,8 @@ For example, `INT` is a common datatype used outside of SQLite. SQLite won't com
 To accommodate this, SQLite has a pretty complicated system of categorizing datatypes that involves `Storage Classes`, `Type Affinities`, and `Datatypes`. For a deeper dive, check out the 
 [SQLite3 Documentation on Datatypes](http://www.sqlite.org/datatype3.html)
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sql-sqlite-data-types-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sql-sqlite-data-types-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG SQL Column Data Types</p>
